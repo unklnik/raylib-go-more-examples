@@ -1,3 +1,5 @@
 
 # 2D - RANDOM COLOR GRID BLOCKS
 Quick way to create colorful background of randomly colored blocks using a slice of structs to store the color and position information.
+
+![random_color_grid](https://github.com/unklnik/raylib-go-more-examples/assets/146096950/7fd73f56-9355-41d2-8eea-4ff94f68a130)
