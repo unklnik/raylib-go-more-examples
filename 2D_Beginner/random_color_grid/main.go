@@ -28,6 +28,8 @@ func main() {
 	scrW, scrH := rl.GetScreenWidth(), rl.GetScreenHeight() // GET SCREEN SIZES
 	rl.SetWindowSize(scrW, scrH)                            // SET WINDOW SIZE
 
+	//rl.ToggleFullscreen() // UNCOMMENT IF YOU HAVE DISPLAY ISSUES WITH OVERLAPPING WINDOW BARS
+
 	x := float32(0)
 	y := float32(0)
 	for {

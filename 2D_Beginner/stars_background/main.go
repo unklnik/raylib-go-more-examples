@@ -49,6 +49,8 @@ func main() {
 	scrW, scrH = rl.GetScreenWidth(), rl.GetScreenHeight() // GET SCREEN SIZES
 	rl.SetWindowSize(scrW, scrH)                           // SET WINDOW SIZE
 
+	//rl.ToggleFullscreen() // UNCOMMENT IF YOU HAVE DISPLAY ISSUES WITH OVERLAPPING WINDOW BARS
+
 	rl.HideCursor()          // HIDES MOUSE CURSOR
 	makeStars()              // FUNCTION MAKE STARS SEE END OF CODE
 	direc = rInt(1, 9)       // CHOOSE INITIAL MOVEMENT DIRECTION
