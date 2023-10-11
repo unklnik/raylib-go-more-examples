@@ -26,6 +26,8 @@ func main() {
 	scrW, scrH := rl.GetScreenWidth(), rl.GetScreenHeight() // GET SCREEN SIZES
 	rl.SetWindowSize(scrW, scrH)                            // SET WINDOW SIZE
 
+	//rl.ToggleFullscreen() // UNCOMMENT IF YOU HAVE DISPLAY ISSUES WITH OVERLAPPING WINDOW BARS
+
 	cntr = rl.NewVector2(float32(scrW/2), float32(scrH/2))                                                        // CALCULATE CENTER
 	borderRec = rl.NewRectangle(cntr.X-float32(scrW/4), cntr.Y-float32(scrH/4), float32(scrW/2), float32(scrH/2)) // DEFINE BORDER RECTANGLE
 	bounceRec = rl.NewRectangle(cntr.X-32, cntr.Y-32, 64, 64)                                                     // DEFINE BOUNCE RECTANGLE
