@@ -15,6 +15,6 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
   
 **2D INTERMEDIATE**
 - [Moving Triangles](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/moving_triangles) - Illustrates moving polygon triangles with direction change
-  
+- [Orbiting](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/orbiting) - Three circles orbiting center point with direction change
 <br><br>  
 <br><br>  
