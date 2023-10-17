@@ -1,0 +1,3 @@
+
+# 2D INTERMEDIATE EXAMPLES
+These examples are intended for anyone that might have messed around with games programming in Go or another language before and/or is proficient in coding and/or has used Raylib before. If you find that you are confused when going over the code then the [2D Beginner Examples](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner) are much simpler and require only basic knowledge to understand. Read the comments if you are not sure what the code is doing.
