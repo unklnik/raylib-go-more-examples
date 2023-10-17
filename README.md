@@ -5,7 +5,7 @@ This is intended as a resource to help beginners learn some basic Raylib and Go 
 
 If you need help and don't know already the [Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html) is useful and a good resource for finding information on Raylib functions and (generally) the same function is available in Go, just add **rl.** in the beginning (prefix).
 
-*I am a self taught Go programmer and do it as a hobby, the code here is my own interpretation of how to do something, probably not the only way or the best way. If you have any suggestions or spot any errors then please let me know.* 
+*I am a self-taught Go programmer and do it as a hobby, the code here is my own interpretation of how to do something, probably not the only way or the best way. If you have any suggestions or spot any errors then please let me know.* 
 
 **2D BEGINNER**
 - [Random Color Grid](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/random_color_grid) - Random color blocks background
