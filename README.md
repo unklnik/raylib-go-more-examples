@@ -12,6 +12,7 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 - [Moving Space Background](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/stars_background) - Shooting stars/space background
 - [Text Center & Scroll](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/text_cntr_scroll) - Text resize, center & scroll left/right/up
 - [Vector2 Collisions](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/vector2_collisions) - Collisions of rectangle versus border rectangle using Vector2 points
+- [Room Tiles](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/room_tiles) - Creates randomly sized room and draws tile textures for the walls and floor
   
 **2D INTERMEDIATE**
 - [Moving Triangles](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/moving_triangles) - Illustrates moving polygon triangles with direction change
