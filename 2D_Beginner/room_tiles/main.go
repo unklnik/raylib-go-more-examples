@@ -140,6 +140,8 @@ func main() {
 		rl.EndDrawing()
 	}
 
+	rl.UnloadTexture(tiles)
+
 	rl.CloseWindow()
 }
 
