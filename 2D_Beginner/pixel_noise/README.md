@@ -1,6 +1,5 @@
 
 # 2D - PIXEL NOISE (ARTIFACTS)
-Simulates pixel noise, or old movie-type artifacts, with color and size change. 
+Simulates pixel noise, or old movie-type screen artifacts, with color and size change. 
 
-
-
+https://github.com/unklnik/raylib-go-more-examples/assets/146096950/ef451fcf-9322-4ea9-99ff-4aa2ecd63b52
