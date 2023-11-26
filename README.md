@@ -21,5 +21,9 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 - [Moving Triangles](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/moving_triangles) - Illustrates moving polygon triangles with direction change
 - [Orbiting](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/orbiting) - Three circles orbiting center point with direction change
 - [Snow](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/snow) - Draws falling snowflakes using textures with color change & blur effect
+
+**2D ADVANCED**
+- [Tile Editor](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Advanced/tile_editor) - Tile sheet loading & grid drawing
 <br><br>  
-<br><br>  
+<br><br>
+
