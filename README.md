@@ -24,6 +24,7 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 - [Candlelight](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/candlelight) - Create the illusion of candelight
 - [Motion Blur](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/motion_blur_scanlines) - Create the illusion of motion blur
 - [Move to Point](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/move_to_point) - Demonstrates moving to point determined by a mouse click on screen
+- [Move to Point Collisions](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/move_to_point_collisions) - Demonstrates moving to point determined by a mouse click with collisions
 
 **2D ADVANCED**
 - [Tile Editor](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Advanced/tile_editor) - Tile sheet loading & grid drawing
