@@ -28,6 +28,7 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 
 **2D ADVANCED**
 - [Tile Editor](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Advanced/tile_editor) - Tile sheet loading & grid drawing
+- [Moving Spike Block](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Advanced/moving_spike_block) - Creates a moving block with spikes inside a room with player collisions
   
 <br><br>  
 <br><br>
