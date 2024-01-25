@@ -16,6 +16,7 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 - [Pixel Noise](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/pixel_noise) - Simulates pixel noise / screen artifacts with color & size change
 - [Animated Character](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/animated_character) - Simple animated sprite character with speed, color & zoom change
 - [Exploding Blocks](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/exploding_blocks) - Create the effect of blocks exploding using slices of structs
+- [Rectangle Collisions](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Beginner/rec_collisions) - Checks for collisions between moving rectangles & borders
   
 **2D INTERMEDIATE**
 - [Moving Triangles](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/moving_triangles) - Illustrates moving polygon triangles with direction change
