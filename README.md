@@ -27,6 +27,7 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 - [Move to Point](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/move_to_point) - Demonstrates moving to point determined by a mouse click on screen
 - [Move to Point Collisions](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/move_to_point_collisions) - Demonstrates moving to point determined by a mouse click with collisions
 - [Player Bullets](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/player_bullets) - Demonstrates bullets determined by mouse click on screen with camera & player movement
+- [Chain Lightning](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/chain_lightning) - Demonstrates simple chain lightning effect, drawing lines between enemy centers on hit
 
 **2D ADVANCED**
 - [Tile Editor](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Advanced/tile_editor) - Tile sheet loading & grid drawing
