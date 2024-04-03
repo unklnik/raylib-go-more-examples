@@ -26,6 +26,8 @@ var (
 
 	camCircs []xcirc //SLICE OF CIRCLE STRUCTS FOR CAMERA DISPLAY
 
+	colors = []rl.Color{rl.Red, rl.Magenta, rl.Yellow, rl.Green, rl.Blue, rl.DarkBlue, rl.DarkGray, rl.Purple, rl.Orange} //SLICE OF COLORS
+
 	delta, distX, distY float32 //FRAME TIME FOR POP UP MOVEMENT / DISTANCE FOR CENTER MENU MOVE
 
 	camera rl.Camera2D //CAMERA OF BACKGROUND WINDOW
