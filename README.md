@@ -29,6 +29,7 @@ If you need help and don't know already the [Raylib Cheatsheet](https://www.rayl
 - [Player Bullets](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/player_bullets) - Demonstrates bullets determined by mouse click on screen with camera & player movement
 - [Chain Lightning](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/chain_lightning) - Demonstrates simple chain lightning effect, drawing lines between enemy centers on hit
 - [Animated Logo](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/animated_logo) - Demonstrates side scrolling Go logo & animated Raylib logo
+- [Simple Dungeon Map](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Intermediate/simple_dungeon_map) - Demonstrates creation of a simple top-down dungeon map
 
 **2D ADVANCED**
 - [Tile Editor](https://github.com/unklnik/raylib-go-more-examples/tree/main/2D_Advanced/tile_editor) - Tile sheet loading & grid drawing
