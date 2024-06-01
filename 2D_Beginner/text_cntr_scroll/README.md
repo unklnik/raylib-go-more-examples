@@ -1,5 +1,8 @@
 
 # 2D - TEXT CENTER & SCROLL UP & SCROLL LEFT/RIGHT
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5YOJH1)
+
 Demonstrates centering of text at different sizes, moving of two different texts left and right across screen as well as up.    
 View more at [unklnik.com](https://unklnik.com/posts/2d-text-center-scroll/)
 
