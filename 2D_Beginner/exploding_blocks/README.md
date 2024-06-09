@@ -1,8 +1,6 @@
 
 # 2D - SIMPLE EXPLODING BLOCKS
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5YOJH1)
-
 Easy way to create the effect of blocks exploding using slices of block structs that contain fade, color, rectangles and movement direction. SPACE key to explode blocks and then wait for the timer to end which will reset the animation. View more at [unklnik.com](https://unklnik.com/posts/2d-exploding-blocks/)
 
 https://github.com/unklnik/raylib-go-more-examples/assets/146096950/0f820da2-91d3-463c-bb9f-19e8d407b031
