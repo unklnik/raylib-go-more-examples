@@ -1,8 +1,6 @@
 
 # 2D - ORBITING
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5YOJH1)
-
 Demonstrates three circles orbiting a center point with change in direction and change in orbit speed - press space key.  
 View more at [unklnik.com](https://unklnik.com/posts/2d-orbiting/)
 
