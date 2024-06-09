@@ -1,7 +1,5 @@
 # Additional Examples for Raylib Go
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E5YOJH1)
-
 A compilation of examples on how to use the Go bindings for Raylib (https://github.com/gen2brain/raylib-go).
 
 This is intended as a resource to help beginners learn some basic Raylib and Go game development skills. If you want to use any of the code anywhere else, feel free to do so. As there are fairly few resources related to making games with Go/Golang this is intended to help people who may be interested in learning Go for making games or for people that already know how to code in Go and want to make games for fun or want to implement more advanced graphics in applications. Note that Raylib can also be used to create UI (user interfaces), data visualizations and other things and is not strictly limited to making games, Raylib serves to make working with OpenGL with Go much easier. There is no GUI (Graphical User Interface) for Raylib and this means that you do need to be able to understand and code in Go to make games using Raylib.
