@@ -6,6 +6,8 @@ This is intended as a resource to help beginners learn some basic Raylib and Go 
 
 If you need help and don't know already the [Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html) is useful and a good resource for finding information on Raylib functions and (generally) the same function is available in Go, just add **rl.** in the beginning (prefix).
 
+To add over 900 more colors to the pallete you can use the [Extended Raylib-Go Color Palette](https://github.com/unklnik/raylib-go-more-examples/tree/main/Extended%20Color%20Palette).
+
 *I am a self-taught Go programmer and do it as a hobby, the code here is my own interpretation of how to do something, probably not the only way or the best way. If you have any suggestions or spot any errors then please let me know.* 
 
 **2D BEGINNER**
